@@ -1,2 +1,2 @@
 Next:
-Step 1 - Import and export content pages
+Step 2. Building pages
