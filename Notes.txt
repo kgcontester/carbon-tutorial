@@ -1,0 +1,4 @@
+Next:
+Step 2. Building pages
+https://carbondesignsystem.com/developing/react-tutorial/step-2
+Banner section (~ half way down)
